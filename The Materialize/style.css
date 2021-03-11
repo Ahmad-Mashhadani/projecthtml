@@ -1,0 +1,15 @@
+.nav{
+    background-color: black;
+}
+.brand-logo{
+    width: 20%;
+}
+.striped{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+#button{
+    margin-top: 5%;
+    margin-left: 10%;
+}

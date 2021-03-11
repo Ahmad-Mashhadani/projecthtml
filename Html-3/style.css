@@ -1,0 +1,41 @@
+*{
+    margin: 5px;
+    padding: 5px;
+   }
+   #container{
+    height: 550px;
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+   }
+   #header{
+    height: 150px;
+    width: 800;
+    background-color: blue;
+    order: 0;
+   }
+   #nav_bar{
+    height: 300px;
+    width: 180px;
+    background-color: red;
+    float: left;
+   }
+   #main_content{
+    height: 360px;
+    width: 725px;
+    background-color: yellow;
+    float: right;
+   }
+   .subcontent{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    float: left;
+   }
+   #advertisements{
+    height: 90px;
+    width: 640px;
+    background-color: pink;
+    float: left;
+    
+   }
