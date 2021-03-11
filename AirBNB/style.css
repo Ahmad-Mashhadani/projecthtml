@@ -1,0 +1,89 @@
+body{
+    width: 1000px;
+    height: 100px;
+}
+.header{
+    
+    margin-left: 30px;
+}
+#p{
+    margin-bottom: -10px;
+}
+.nav{
+    width: 40%;
+    margin-left: 30px;
+}
+#main-content{
+    width: 90%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+#main-left{
+    width: 30%;
+}
+.main-right{
+    display: flex;
+    width: 70%;
+}
+#main-right{
+    width: 60%;
+}
+.big-picture{
+    width: 95%;
+}
+#main-right2{
+    width: 40%;
+    margin: 0;
+}
+#geustsnumber{
+    width: 10%;
+}
+#main-center{
+    display: flex;
+}
+#main-center > img{
+    width: 40px;
+}
+#information{
+    margin-left: 1%;
+}
+#main-right2 > h4, #main-right2 > h6{
+    margin: 0;
+}
+#main-right2 > h4{
+    color: hotpink;
+}
+.image-right{
+    width: 200px;
+    height: 100px;
+}
+#Lastoffer{
+    margin-bottom: 0;
+}
+#Lastoffer > h4, #Lastoffer > h6{
+    margin: 0;
+}
+#Lastoffer > h4{
+    color: hotpink;
+}
+#Lastoffer > img{
+    width: 200px;
+    height: 100px;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}
+#Logo{
+    display: flex;
+    align-items: center;
+}
+.logos{
+    width: 5%;
+    margin-right: 5px;
+}
+#TV{
+    margin-right: 5px;
+}
